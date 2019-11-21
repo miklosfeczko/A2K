@@ -69,6 +69,10 @@ body {
   color: #d480aa;
 }
 
+.link-collection {
+  margin-left: 1.2rem;
+}
+
 #header {
   max-width: 710px;
   width: 100%;
@@ -164,6 +168,8 @@ body {
   min-width: 100px;
   margin-right: 16px;
 }
+
+
 .post-list .post-more {
   float: right;
   margin-left: 116px;
